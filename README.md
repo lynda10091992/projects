@@ -1,6 +1,6 @@
 # lynda-s-Project-
 
-#Descrption
+# Descrption
 ceci est un document pour le projet
-#variables:
+# variables:
 
